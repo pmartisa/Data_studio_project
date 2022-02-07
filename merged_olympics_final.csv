@@ -1,0 +1,223 @@
+National_Olympic_Committees,Countries,year,Host_city,total_athletes,total-medals,Athletes_per_medal
+AUT,Austria,1960,Squaw Valley ,26.0,6,4.33
+CAN,Canada,1960,Squaw Valley ,44.0,4,11.0
+FIN,Finland,1960,Squaw Valley ,48.0,8,6.0
+FRA,France,1960,Squaw Valley ,26.0,3,8.67
+GER,Germany,1960,Squaw Valley ,74.0,8,9.25
+ITA,Italy,1960,Squaw Valley ,28.0,1,28.0
+NED,Netherlands,1960,Squaw Valley ,7.0,2,3.5
+NOR,Norway,1960,Squaw Valley ,29.0,6,4.83
+URS,Soviet Union,1960,Squaw Valley ,62.0,21,2.95
+USA,USA,1960,Squaw Valley ,79.0,10,7.9
+SUI,Switzerland,1960,Squaw Valley ,21.0,2,10.5
+SWE,Sweden,1960,Squaw Valley ,47.0,5,9.4
+AUT,Austria,1964,Innsbruck,83.0,12,6.92
+CAN,Canada,1964,Innsbruck,55.0,3,18.33
+FIN,Finland,1964,Innsbruck,51.0,10,5.1
+FRA,France,1964,Innsbruck,24.0,7,3.43
+GER,Germany,1964,Innsbruck,96.0,9,10.67
+ITA,Italy,1964,Innsbruck,61.0,4,15.25
+NED,Netherlands,1964,Innsbruck,6.0,2,3.0
+NOR,Norway,1964,Innsbruck,58.0,15,3.87
+URS,Soviet Union,1964,Innsbruck,69.0,25,2.76
+USA,USA,1964,Innsbruck,90.0,7,12.86
+SWE,Sweden,1964,Innsbruck,57.0,7,8.14
+AUT,Austria,1968,Grenoble,76.0,11,6.91
+CAN,Canada,1968,Grenoble,70.0,3,23.33
+FIN,Finland,1968,Grenoble,52.0,5,10.4
+FRA,France,1968,Grenoble,75.0,9,8.33
+FRG,Federal Republic of Germany,1968,Grenoble,87.0,7,12.43
+ITA,Italy,1968,Grenoble,47.0,4,11.75
+NED,Netherlands,1968,Grenoble,9.0,9,1.0
+NOR,Norway,1968,Grenoble,65.0,14,4.64
+URS,Soviet Union,1968,Grenoble,74.0,13,5.69
+USA,USA,1968,Grenoble,96.0,7,13.71
+SUI,Switzerland,1968,Grenoble,34.0,6,5.67
+SWE,Sweden,1968,Grenoble,68.0,8,8.5
+GDR,German Democratic Republic (Germany),1968,Grenoble,57.0,5,11.4
+AUT,Austria,1972,Sapporo,40.0,5,8.0
+CAN,Canada,1972,Sapporo,47.0,1,47.0
+FIN,Finland,1972,Sapporo,50.0,5,10.0
+FRA,France,1972,Sapporo,40.0,3,13.33
+FRG,Federal Republic of Germany,1972,Sapporo,78.0,5,15.6
+ITA,Italy,1972,Sapporo,44.0,5,8.8
+NED,Netherlands,1972,Sapporo,11.0,9,1.22
+NOR,Norway,1972,Sapporo,67.0,12,5.58
+URS,Soviet Union,1972,Sapporo,76.0,16,4.75
+USA,USA,1972,Sapporo,103.0,8,12.88
+SUI,Switzerland,1972,Sapporo,52.0,10,5.2
+SWE,Sweden,1972,Sapporo,58.0,4,14.5
+GDR,German Democratic Republic (Germany),1972,Sapporo,42.0,14,3.0
+AUT,Austria,1976,Innsbruck,77.0,6,12.83
+CAN,Canada,1976,Innsbruck,59.0,3,19.67
+FIN,Finland,1976,Innsbruck,47.0,7,6.71
+FRA,France,1976,Innsbruck,35.0,1,35.0
+FRG,Federal Republic of Germany,1976,Innsbruck,71.0,10,7.1
+ITA,Italy,1976,Innsbruck,58.0,4,14.5
+NED,Netherlands,1976,Innsbruck,7.0,6,1.17
+NOR,Norway,1976,Innsbruck,41.0,7,5.86
+URS,Soviet Union,1976,Innsbruck,79.0,27,2.93
+USA,USA,1976,Innsbruck,106.0,10,10.6
+SUI,Switzerland,1976,Innsbruck,59.0,5,11.8
+SWE,Sweden,1976,Innsbruck,39.0,2,19.5
+GDR,German Democratic Republic (Germany),1976,Innsbruck,59.0,19,3.11
+AUT,Austria,1980,Lake Placid,43.0,7,6.14
+CAN,Canada,1980,Lake Placid,59.0,2,29.5
+FIN,Finland,1980,Lake Placid,52.0,9,5.78
+FRA,France,1980,Lake Placid,22.0,1,22.0
+FRG,Federal Republic of Germany,1980,Lake Placid,80.0,5,16.0
+ITA,Italy,1980,Lake Placid,46.0,2,23.0
+NED,Netherlands,1980,Lake Placid,29.0,4,7.25
+NOR,Norway,1980,Lake Placid,63.0,10,6.3
+URS,Soviet Union,1980,Lake Placid,86.0,22,3.91
+USA,USA,1980,Lake Placid,101.0,12,8.42
+SUI,Switzerland,1980,Lake Placid,44.0,5,8.8
+SWE,Sweden,1980,Lake Placid,61.0,4,15.25
+GDR,German Democratic Republic (Germany),1980,Lake Placid,53.0,23,2.3
+AUT,Austria,1984,Sarajevo,65.0,1,65.0
+CAN,Canada,1984,Sarajevo,67.0,4,16.75
+FIN,Finland,1984,Sarajevo,45.0,13,3.46
+FRA,France,1984,Sarajevo ,32.0,3,10.67
+FRG,Federal Republic of Germany,1984,Sarajevo ,84.0,4,21.0
+ITA,Italy,1984,Sarajevo ,74.0,2,37.0
+NOR,Norway,1984,Sarajevo ,58.0,9,6.44
+URS,Soviet Union,1984,Sarajevo ,99.0,25,3.96
+USA,USA,1984,Sarajevo ,107.0,8,13.38
+SUI,Switzerland,1984,Sarajevo ,42.0,5,8.4
+SWE,Sweden,1984,Sarajevo ,60.0,8,7.5
+GDR,German Democratic Republic (Germany),1984,Sarajevo ,56.0,24,2.33
+AUT,Austria,1988,Calgary ,81.0,10,8.1
+CAN,Canada,1988,Calgary ,112.0,5,22.4
+FIN,Finland,1988,Calgary ,53.0,7,7.57
+FRA,France,1988,Calgary ,68.0,2,34.0
+FRG,Federal Republic of Germany,1988,Calgary ,90.0,8,11.25
+ITA,Italy,1988,Calgary ,58.0,5,11.6
+NED,Netherlands,1988,Calgary ,11.0,7,1.57
+NOR,Norway,1988,Calgary ,63.0,5,12.6
+URS,Soviet Union,1988,Calgary ,101.0,29,3.48
+USA,USA,1988,Calgary ,117.0,6,19.5
+SUI,Switzerland,1988,Calgary ,70.0,15,4.67
+SWE,Sweden,1988,Calgary ,67.0,6,11.17
+GDR,German Democratic Republic (Germany),1988,Calgary ,53.0,25,2.12
+AUT,Austria,1992,Albertville ,58.0,21,2.76
+CAN,Canada,1992,Albertville ,108.0,7,15.43
+FIN,Finland,1992,Albertville ,62.0,7,8.86
+FRA,France,1992,Albertville ,109.0,9,12.11
+JPN,Japan,1992,Albertville ,60.0,7,8.57
+ITA,Italy,1992,Albertville ,107.0,14,7.64
+NED,Netherlands,1992,Albertville ,19.0,4,4.75
+NOR,Norway,1992,Albertville,79.0,20,3.95
+EUN,Unified Team,1992,Albertville ,129.0,23,5.61
+USA,USA,1992,Albertville ,148.0,11,13.45
+SUI,Switzerland,1992,Albertville ,74.0,3,24.67
+SWE,Sweden,1992,Albertville ,73.0,4,18.25
+GER,Germany,1992,Albertville ,111.0,26,4.27
+KOR,South Korea,1992,Albertville ,23.0,4,5.75
+AUT,Austria,1994,Lillehammer,80.0,9,8.89
+CAN,Canada,1994,Lillehammer,95.0,13,7.31
+FIN,Finland,1994,Lillehammer,61.0,6,10.17
+FRA,France,1994,Lillehammer,98.0,5,19.6
+GER,Germany,1994,Lillehammer,112.0,24,4.67
+ITA,Italy,1994,Lillehammer,104.0,20,5.2
+NED,Netherlands,1994,Lillehammer,21.0,4,5.25
+NOR,Norway,1994,Lillehammer,87.0,26,3.35
+RUS,Russian Federation,1994,Lillehammer,113.0,23,4.91
+USA,USA,1994,Lillehammer,148.0,13,11.38
+SUI,Switzerland,1994,Lillehammer,59.0,9,6.56
+SWE,Sweden,1994,Lillehammer,84.0,3,28.0
+KOR,South Korea,1994,Lillehammer,21.0,6,3.5
+JPN,Japan,1994,Lillehammer,59.0,5,11.8
+AUT,Austria,1998,Nagano,96.0,17,5.65
+CAN,Canada,1998,Nagano,144.0,15,9.6
+FIN,Finland,1998,Nagano,85.0,12,7.08
+FRA,France,1998,Nagano,106.0,8,13.25
+GER,Germany,1998,Nagano,125.0,29,4.31
+ITA,Italy,1998,Nagano,113.0,10,11.3
+NED,Netherlands,1998,Nagano,22.0,11,2.0
+NOR,Norway,1998,Nagano,75.0,25,3.0
+RUS,Russian Federation,1998,Nagano,122.0,18,6.78
+USA,USA,1998,Nagano,186.0,13,14.31
+SUI,Switzerland,1998,Nagano,69.0,7,9.86
+SWE,Sweden,1998,Nagano,99.0,3,33.0
+KOR,South Korea,1998,Nagano,37.0,6,6.17
+JPN,Japan,1998,Nagano,156.0,10,15.6
+CHN,People's Republic of China,1998,Nagano,57.0,8,7.12
+AUT,Austria,2002,Salt Lake City,90.0,17,5.29
+CAN,Canada,2002,Salt Lake City,150.0,17,8.82
+FIN,Finland,2002,Salt Lake City,98.0,7,14.0
+FRA,France,2002,Salt Lake City,114.0,11,10.36
+GER,Germany,2002,Salt Lake City,157.0,36,4.36
+ITA,Italy,2002,Salt Lake City,109.0,13,8.38
+NED,Netherlands,2002,Salt Lake City,27.0,8,3.38
+NOR,Norway,2002,Salt Lake City,77.0,25,3.08
+RUS,Russian Federation,2002,Salt Lake City,151.0,13,11.62
+USA,USA,2002,Salt Lake City,202.0,34,5.94
+SUI,Switzerland,2002,Salt Lake City,110.0,11,10.0
+SWE,Sweden,2002,Salt Lake City,102.0,7,14.57
+KOR,South Korea,2002,Salt Lake City,46.0,4,11.5
+CHN,People's Republic of China,2002,Salt Lake City,66.0,8,8.25
+CRO,Croatia,2002,Salt Lake City,13.0,4,3.25
+AUT,Austria,2006,Turin,73.0,23,3.17
+CAN,Canada,2006,Turin,191.0,24,7.96
+FIN,Finland,2006,Turin,90.0,9,10.0
+FRA,France,2006,Turin,82.0,9,9.11
+GER,Germany,2006,Turin,155.0,29,5.34
+ITA,Italy,2006,Turin,179.0,11,16.27
+NED,Netherlands,2006,Turin,33.0,9,3.67
+NOR,Norway,2006,Turin,67.0,19,3.53
+RUS,Russian Federation,2006,Turin,174.0,22,7.91
+USA,USA,2006,Turin,204.0,25,8.16
+SUI,Switzerland,2006,Turin,125.0,14,8.93
+SWE,Sweden,2006,Turin,106.0,14,7.57
+KOR,South Korea,2006,Turin,40.0,11,3.64
+CHN,People's Republic of China,2006,Turin,73.0,11,6.64
+AUT,Austria,2010,Vancouver,75.0,16,4.69
+CAN,Canada,2010,Vancouver,201.0,26,7.73
+FIN,Finland,2010,Vancouver,91.0,5,18.2
+FRA,France,2010,Vancouver,104.0,11,9.45
+GER,Germany,2010,Vancouver,149.0,30,4.97
+ITA,Italy,2010,Vancouver,109.0,5,21.8
+NED,Netherlands,2010,Vancouver,32.0,8,4.0
+NOR,Norway,2010,Vancouver,95.0,23,4.13
+RUS,Russian Federation,2010,Vancouver,175.0,15,11.67
+USA,USA,2010,Vancouver,212.0,37,5.73
+SUI,Switzerland,2010,Vancouver,134.0,9,14.89
+SWE,Sweden,2010,Vancouver,101.0,11,9.18
+KOR,South Korea,2010,Vancouver,45.0,14,3.21
+CHN,People's Republic of China,2010,Vancouver,86.0,11,7.82
+JPN,Japan,2010,Vancouver,91.0,5,18.2
+POL,Poland,2010,Vancouver,46.0,6,7.67
+CZE,Czech Republic,2010,Vancouver,90.0,6,15.0
+AUT,Austria,2014,Sochi,126.0,17,7.41
+CAN,Canada,2014,Sochi,217.0,25,8.68
+FIN,Finland,2014,Sochi,99.0,5,19.8
+FRA,France,2014,Sochi,107.0,15,7.13
+GER,Germany,2014,Sochi,151.0,19,7.95
+ITA,Italy,2014,Sochi,110.0,8,13.75
+NED,Netherlands,2014,Sochi,39.0,24,1.62
+NOR,Norway,2014,Sochi,110.0,26,4.23
+RUS,Russian Federation,2014,Sochi,213.0,29,7.34
+USA,USA,2014,Sochi,222.0,28,7.93
+SUI,Switzerland,2014,Sochi,152.0,11,13.82
+SWE,Sweden,2014,Sochi,99.0,15,6.6
+KOR,South Korea,2014,Sochi,71.0,8,8.88
+JPN,Japan,2014,Sochi,109.0,8,13.62
+CHN,People's Republic of China,2014,Sochi,62.0,9,6.89
+POL,Poland,2014,Sochi,58.0,6,9.67
+CZE,Czech Republic,2014,Sochi,87.0,8,10.88
+AUT,Austria,2018,PyeongChang,105.0,14,7.5
+CAN,Canada,2018,PyeongChang,225.0,29,7.76
+FIN,Finland,2018,PyeongChang,100.0,6,16.67
+FRA,France,2018,PyeongChang,106.0,15,7.07
+GER,Germany,2018,PyeongChang,153.0,31,4.94
+ITA,Italy,2018,PyeongChang,120.0,10,12.0
+NED,Netherlands,2018,PyeongChang,33.0,20,1.65
+NOR,Norway,2018,PyeongChang,109.0,39,2.79
+OAR,Olympic Athletes from Russia,2018,PyeongChang,168.0,17,9.88
+USA,USA,2018,PyeongChang,241.0,23,10.48
+SUI,Switzerland,2018,PyeongChang,166.0,15,11.07
+SWE,Sweden,2018,PyeongChang,116.0,14,8.29
+KOR,South Korea,2018,PyeongChang,122.0,17,7.18
+JPN,Japan,2018,PyeongChang,124.0,13,9.54
+CHN,People's Republic of China,2018,PyeongChang,80.0,9,8.89
+CZE,Czech Republic,2018,PyeongChang,93.0,7,13.29
