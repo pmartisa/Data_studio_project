@@ -4,7 +4,7 @@ On this project we analyze the history of the Winter Olympics since 1960, and ex
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8619561"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<h2>Where does our data come from?</h2>
+<h2>Where do our data come from?</h2>
  <p>We have extracted the data from the offical<a href="https://olympics.com/"> Olympics website</a>, and also, created our own dataset with the top medalist countries since 1960 to 2018. Finally, we extracted from the historial dataset <a href="https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results">'120 years of Olympic data'</a>the team size of each Olympic cohort overtime</p>
 
 <h2>Some data-analysis findings</h2>
