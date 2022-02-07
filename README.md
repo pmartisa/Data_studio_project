@@ -1,6 +1,6 @@
 # State sponsored athletics and steroid abuse,the key to Soviet success in the Winter Olympics
-XXIV Winter Olympics in Beijing are currently happening!<br>
-On this project we analyze the history of the Winter Olympics since 1960, and explore the Soviet dominance during the Cold War era calculating the rate of number of athletes competing in each team per medals achieved. 
+The XXIV Winter Olympics are currently happening in Beijing!<br>
+On this project we analyze the history of the Winter Olympics since 1960, and explore Soviet dominance during the Cold War era calculating the rate betweeen number of athletes per Olympic team and total medals achieved. 
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8619561"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
