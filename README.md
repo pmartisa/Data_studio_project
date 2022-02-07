@@ -20,4 +20,4 @@ Only the Netherlands, from a dataset with the top Winter Olympics countries acco
 I merged two different datasets, after having cleanned the rows I wasn't interested in as well as all the info. related to other Olympic countries my analysis wasn't focused on. I used Flourish to plot my results for the first time, creating some interactive graphics. Also, for the first time, I was very conscious of the final format my dataset should have in order to being able to plot it the way I wanted. 
 
 <h2>What didn't work?</h2>
-I couldn't manage to scrape a short table with some medals information, so I ended up persuing a (looong) manual process. 
+I couldn't manage to scrape a short table with some medals information, so I ended up undertaking a (looong) manual process. 
